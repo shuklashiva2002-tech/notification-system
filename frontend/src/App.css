@@ -33,7 +33,7 @@ h1 {
 }
 
 .card h2 {
-  color: #5cd65c;
+  color: pink;
   font-size: 30px;
 }
 
@@ -72,7 +72,7 @@ button {
   padding: 18px;
   border: none;
   border-radius: 15px;
-  background: #5cd65c;
+  background: hsl(120, 95%, 15%);
   color: white;
   font-size: 22px;
   font-weight: bold;

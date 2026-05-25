@@ -6,7 +6,7 @@ import "./App.css";
 function App() {
   return (
     <div className="container">
-      <h1>Realtime Notification Dashboard</h1>
+      <h1>Notification System</h1>
 
       <div className="wrapper">
         <SubscriberPanel />
